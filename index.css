@@ -1,0 +1,609 @@
+.navbar{
+    height: 116px;
+    background: #F3F3F3;
+    /* position: absolute; */
+width: 1440px;
+height: 116px;
+left: 0px;
+top: 0px;
+
+}
+
+.right{
+    margin-right: 300px;
+    display: flex;
+
+}
+
+
+#consult-button{
+    margin-left: 0px;
+    width: 176px;
+height: 26px;
+
+font-family: 'Days One';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+position: absolute;
+width: 216px;
+height: 56px;
+left: 1144px;
+top: 30px;
+border: 2px solid #E6DD3B;
+border-radius: 8px;
+background: #1E6F5C;
+
+color: #E6DD3B;
+}
+
+
+.green{
+    
+    /*
+    position: absolute;
+width: 1440px;
+height: 771px;
+left: 0px;
+top: 116px;
+
+background: linear-gradient(90deg, rgba(30, 111, 92, 0.85) 7.07%, rgba(30, 111, 92, 0) 100%), linear-gradient(0deg, rgba(30, 111, 92, 0.6), rgba(30, 111, 92, 0.6)), url(.jpg);
+*/
+}
+
+
+
+  #rated{
+     position: absolute;
+width: 537px;
+height: 30px;
+left: 80px;
+top: 306px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 30px;  
+
+
+
+color: #FFFFFF;
+
+}   
+
+
+
+.yel{color: #E6DD3B;
+    font-family: 'Days One'
+}
+
+
+#trusted{
+    position: absolute;
+width: 709px;
+height: 122px;
+left: 80px;
+top: 351px;
+
+/* font-family: 'Days One'; */
+font-family:cursive;
+font-style: normal;
+font-weight:800;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+}
+
+#request{
+    position: absolute;
+width: 632px;
+height: 111px;
+left: 80px;
+top: 503px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 37px;
+
+
+
+color: #FFFFFF;
+
+}
+
+
+.green-left{
+    position: absolute;
+width: 563px;
+height: 678px;
+left: 797px;
+top: 172px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
+
+#f-heading{
+    /* position: absolute; */
+width: 466px;
+height: 84px;
+left: 845px;
+top: 197px;
+
+font-family: 'Days One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 42px;
+/* or 131% */
+
+text-align: center;
+
+color: #454545;
+
+}
+#myform{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+
+.form-button{
+    margin-left: 20px;
+    /* margin-right: 40px; */
+    /* width: 250px; */
+height: 26px;
+
+font-family: 'Days One';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+height: 56px;
+left: 1144px;
+top: 30px;
+border: 2px solid #E6DD3B;
+border-radius: 8px;
+background: #1E6F5C;
+
+color: #E6DD3B;
+}
+
+
+.accreditations{
+    position: absolute;
+    width: 412px;
+    height: 52px;
+    left: 514px;
+    top: 987px;
+    
+    font-family:cursive;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 52px;
+    /* identical to box height, or 130% */
+    
+}
+
+#our{color:  #E6DD3B;}
+#acr{
+   color:#1E6F5C;
+}
+
+#audited{
+    position: absolute;
+width: 1086px;
+height: 30px;
+left: 177px;
+top: 1064px;
+
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+color: #000000;
+
+}
+
+
+.acr-image{
+    /* background: url('acrimage.jpg'); */
+    position: absolute;
+    top: 1135px;
+    display: flex;
+
+}
+#img7{
+    
+/* width: 73.91px;
+height: 92.86px;
+left: 220.4px; */
+
+}
+
+
+.why-us{
+    
+    position: absolute;
+width: 1440px;
+height: 863px;
+left: 0px;
+top: 1332px;
+}
+
+#cahill{
+    
+
+font-family:cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+margin:20px 320px;
+
+
+color: #1E6F5C;
+
+}
+
+.chooseusimages1{
+    display: flex;
+}
+
+
+.our-process{
+    position: absolute;
+width: 271px;
+height: 52px;
+left: 585px;
+top: 1900px;
+
+
+font-family:cursive;
+font-style:normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height, or 130% */
+
+
+
+}
+#img-process{
+    position: absolute;
+/* width: 271px; */
+/* height: 52px;
+left: 585px; */
+top: 2000px;
+
+
+}
+
+#process-button{
+    position: absolute;
+    top: 2550px;
+    
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+height: 70px;
+left: 480px;
+width: 400px;
+border: 2px solid #E6DD3B;
+border-radius: 8px;
+background: #1E6F5C;
+
+color: #E6DD3B; 
+
+}
+#process-button:hover{
+    color:white
+    
+    
+}
+.solar-install{
+
+    position: absolute;
+width: 471px;
+height: 52px;
+left: 642px;
+top: 0px;
+
+font-family: 'Days One';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+}
+#pv{
+
+}
+#install{
+
+}
+
+#imgsolar{
+   
+    top: 2700px;
+   
+    margin-left: 20px;
+
+}
+.installations{
+    position: absolute;
+   
+    top: 2750px;
+    
+    font-family: 'Days One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+
+}
+.mainsolar{
+    display: flex;
+    position: relative;
+    top: 100px;
+}
+.textsolar{
+    font-size: 20px;
+   
+}
+
+#solar-button{
+    position: absolute;
+    top:400px;
+    
+
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+height: 70px;
+left: 550px;
+width: 400px;
+border: 2px solid #E6DD3B;
+border-radius: 8px;
+background: #1E6F5C;
+
+color: #E6DD3B; 
+}
+#solar-button:hover{
+    color:white,
+  
+    
+}
+
+
+.mywork{
+    
+   position: absolute;
+width: 209px;
+height: 52px;
+left: 615px;
+top: 3375px;
+
+font-family:cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+
+}
+
+
+.imgwork{
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 3450px;
+    
+}
+
+.imgwork2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.customers{
+    position: absolute;
+width: 389px;
+height: 52px;
+left: 525px;
+top: 4200px;
+
+font-family:cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+}
+
+.hpycustomers{
+    position: absolute;
+    top: 4250px;
+    display: flex;
+    margin: 100px 100px 100px 250px;
+}
+#carl{
+    margin-right: 70px;
+}
+
+#customerbtn{
+    position:absolute;
+    top: 4800px;
+    width: 230px;
+height: 26px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+margin-left: 450px;
+
+
+color: #1B644F;
+
+}
+
+#btncustomer{
+    width: 330px;
+height: 60px;
+
+font-family:cursive;
+font-style:normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+background-color: #E6DD3B;
+color:#1B644F;
+border-radius: 8px;
+}
+#btncustomer:hover{
+    color: white;
+}
+
+
+
+.questions{
+    position: absolute;
+    top: 5000px;
+    /* width: 613px; */
+height: 52px;
+
+font-family:cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px
+}
+
+.accord{
+    position: absolute;
+    top: 5100px;
+   
+height: 22px;
+width: 80%;
+font-family:cursive;
+font-style: normal;
+font-weight: 40;
+font-size: 16px;
+line-height: 52px;
+margin-left: 150px;
+
+}
+.accordion-item{
+    background: #1B644F;
+    color: #FFFFFF;
+    border-radius: 8px;
+    width: 80%;
+}
+
+.footer{
+    
+   
+    font-family: cursive;
+    
+    
+    position: absolute;
+width: 100%;
+height: 450px;
+left: 0px;
+top: 6100px;
+
+background: #FDF7D8;
+   
+}
+
+
+.imgfooter{
+    position: relative;
+    margin-left: 800px;
+     border-radius: 850px;
+     margin-top: -130px;
+
+}
+
+/* .mainfooter{
+    background-color: antiquewhite;
+    display: flex;
+} */
+
+
+#ready{
+   
+    margin-left: 30px;
+    margin-top: 0px;
+    width: 709px;
+height: 58px;
+
+/* top: 6458px; */
+
+font-family: 'cursive';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 58px;
+color: #454545;
+}
+#speak{
+    width: 709px;
+height: 58px;
+margin-left: 30px;
+/* top: 6458px; */
+
+font-family:sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 58px;
+color: #454545;
+}
+
+
+#footer-button{
+    position: absolute;
+    top: 210px;
+    width: 330px;
+height: 56px;
+margin-left: 300px;
+font-family: 'cursive';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+border-radius: 5px;
+
+background-color: #1E6F5C;
+color: #FFF200;
+
+}
+.copyright{
+    position: absolute;
+    top: 6500px;
+    background-color: #1B644F;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    word-spacing:0vmin
+
+}
